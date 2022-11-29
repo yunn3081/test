@@ -4,9 +4,7 @@ import json
 import time
 from datetime import datetime
 
-#try
-#it
-#outtt
+#remote origin tryout
 
 # KKBOX華語新歌日榜
 url = "https://kma.kkbox.com/charts/api/v1/daily?category=297&lang=tc&limit=50&terr=tw&type=newrelease"
